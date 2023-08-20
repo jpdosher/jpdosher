@@ -1,18 +1,47 @@
-<h1 align="center">Hi 👋, I'm Jean Paul Dosher</h1>
-<h3 align="center">A passionate frontend developer from Jr. Power Platform Developer. Sci-fi lover and curious writer.India</h3>
+<div align="center">
+  <img src="https://github.com/jpdosher/jpdosher/blob/main/readme_img.jpg"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpdosher&label=Profile%20views&color=0e75b6&style=flat" alt="jpdosher" /> </p>
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" alt="medium logo"  />
+ 
+</div>
+
+###
+
+
+
+###
+
+<h1 align="center"> 👋</h1>
+
+<br>
+<h2 align="left">👩‍💻  About Me</h2>
 
 - 📝 I regularly write articles on [https://medium.com/@jean.dosher](https://medium.com/@jean.dosher)
 
 - 📫 How to reach me **jean.dosher@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com//in/jean-paul-dosher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com//in/jean-paul-dosher" height="30" width="40" /></a>
-</p>
+- 🔭 I’m working as Jr. Power Plaform Developer
+- 📚 I'm currently learning DataScience (Python,SQL,ETL,DataViz), Javascript
+- ⚡ In my free time I study and watch animes with my kiddo</p>
 
-<h3 align="left">Languages and Tools:</h3>
+###
+<br>
+<h2 align="left">🛠 Language and tools</h2>
+
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpdosher&show_icons=true&locale=en&layout=compact" alt="jpdosher" /></p>
+---
+<br>
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
