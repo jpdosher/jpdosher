@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center"> :alien: Hi,</h1>
+<h1 align="center"> :alien: Hi there 🖖</h1>
 
 <br>
 <h2 align="left">👩‍💻  About Me</h2>
