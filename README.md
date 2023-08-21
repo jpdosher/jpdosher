@@ -5,8 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" alt="medium logo"  />
+<a href="https://www.linkedin.com//in/jean-paul-dosher" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="azure" height="25" alt="linkedin logo"  /> </a>
+<a href="https://medium.com/@jean.dosher" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" alt="medium logo"  /> </a>
+
  
 </div>
 
@@ -23,8 +24,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@jean.dosher](https://medium.com/@jean.dosher)
 
-- 📫 How to reach me **jean.dosher@gmail.com**
-
+- 📫 You can reach me at **jean.dosher@gmail.com**
 - 🔭 I’m working as Jr. Power Plaform Developer
 - 📚 I'm currently learning DataScience (Python,SQL,ETL,DataViz), Javascript 
 - ⚡ In my free time I study, watch some animes with my kiddo and read a bit of classical sci-fi</p>
