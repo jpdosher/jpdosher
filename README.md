@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="30%" src="https://github.com/jpdosher/jpdosher/blob/main/readme_img.jpg"  />
+  <img width="20%" src="https://github.com/jpdosher/jpdosher/blob/main/readme_img.jpg"  />
 </div>
 
 ###
