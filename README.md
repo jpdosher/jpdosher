@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center"> 👋</h1>
+<h1 align="center"> :alien: Hi,</h1>
 
 <br>
 <h2 align="left">👩‍💻  About Me</h2>
@@ -45,3 +45,8 @@
 </div>
 
 ###
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/2" alt="Recent Article 2"> 
+
