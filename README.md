@@ -36,6 +36,9 @@
 <p align="left"> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <br>
+
+###
+
 <h3 align="left">Power Platfom:</h3>
 <a href="https://powerapps.microsoft.com/pt-br/ai-builder" target="_blank" rel="noreferrer"> <img src="Img/AIBuilder_scalable.svg" alt="AI Builder" width="40" height="40"/> </a><a href="hhttps://powerplatform.microsoft.com/en-us/dataverse/" target="_blank" rel="noreferrer"> <img src="Img/Dataverse_scalable.svg" alt="Data Verse" width="40" height="40"/> </a><a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer"> <img src="Img/PowerApps_scalable.svg" alt="Power Apps" width="40" height="40"/> </a><a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="Img/PowerAutomate_scalable.svg" alt="Power Automate" width="40" height="40"/> </a><a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="Img/PowerBI_scalable.svg" alt="Power BI" width="40" height="40"/> </a>
 <a href="https://powerpages.microsoft.com/" target="_blank" rel="noreferrer"> <img src="Img/PowerPages_scalable.svg" alt="Power Pages" width="40" height="40"/> </a>
