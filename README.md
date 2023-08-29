@@ -49,16 +49,14 @@
 
 <br>
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/0" alt="Recent Article 3"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/1" alt="Recent Article 1"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/2" alt="Recent Article 2"> 
 <br>
 
 ---
 <br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jpdosher&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 ###
 <br>
