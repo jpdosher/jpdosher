@@ -26,7 +26,7 @@
 
 - 📫 You can reach me at **jean.dosher@gmail.com**
 - 🔭 I’m working as Jr. Power Plaform Developer
-- 📚 I'm currently learning DataScience (Python,SQL,ETL,DataViz), Javascript 
+- 📚 I'm currently learning how to expand Power Platform capabilities using Javascript, C#, DevOps
 - ⚡ In my free time I study, watch some animes with my kiddo and read a bit of classical sci-fi</p>
 
 ###
