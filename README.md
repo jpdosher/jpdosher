@@ -37,7 +37,7 @@
 ###
 
 <br>
-<h2 align="left">📰Some of my Medium Articles (In Portuguese)</h2>
+<h2 align="left">📰Some of my Medium Articles</h2>
 
 <br>
 
