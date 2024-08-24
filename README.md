@@ -1,14 +1,6 @@
 <div align="center">
-  <img width="20%" src="https://github.com/jpdosher/jpdosher/blob/main/readme_img.jpg"  />
-</div>
-
-###
-
-<div align="center">
 <a href="https://www.linkedin.com//in/jean-paul-dosher" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="azure" height="25" alt="linkedin logo"  /> </a>
 <a href="https://medium.com/@jean.dosher" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" alt="medium logo"  /> </a>
-
- 
 </div>
 
 ###
@@ -24,8 +16,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@jean.dosher](https://medium.com/@jean.dosher)
 
-- 📫 You can reach me at **jean.dosher@gmail.com**
-- 🔭 I’m working as Jr. Power Plaform Developer
+- 📫 You can reach me at **jean.dosher@gmail.com** or **jpdosher@hotmail.com**
+- 🔭 I’m working as Power Plaform Developer at NEXER
 - 📚 I'm currently learning how to expand Power Platform capabilities using Javascript, C#, DevOps
 - ⚡ In my free time I study, watch some animes with my kiddo and read a bit of classical sci-fi</p>
 
@@ -49,9 +41,9 @@
 
 <br>
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/1" alt="Recent Article 1"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/3" alt="Recent Article 3"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/5" alt="Recent Article 5"> 
 <br>
 
 ---
