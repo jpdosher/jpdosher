@@ -14,7 +14,7 @@
 <br>
 <h2 align="left">👩‍💻  About Me</h2>
 
-- 📝 I regularly write articles on [https://medium.com/@jean.dosher](https://medium.com/@jean.dosher)
+- 📝 I regularly write articles on [my blog]([https://medium.com/@jean.dosher](https://jeandosher.blog/))
 
 - 📫 You can reach me at **jean.dosher@gmail.com** or **jpdosher@hotmail.com**
 - 🔭 I’m working as Power Plaform Developer at NEXER
