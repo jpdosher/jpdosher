@@ -14,7 +14,7 @@
 <br>
 <h2 align="left">👩‍💻  About Me</h2>
 
-- 📝 I regularly write articles on [my blog]([https://medium.com/@jean.dosher](https://jeandosher.blog/))
+- 📝 I regularly write articles on **[my blog](https://jeandosher.blog/)**
 
 - 📫 You can reach me at **jean.dosher@gmail.com** or **jpdosher@hotmail.com**
 - 🔭 I’m working as Power Plaform Developer at NEXER
@@ -35,25 +35,4 @@
 
 
 ###
-
-<br>
-<h2 align="left">📰Some of my Medium Articles</h2>
-
-<br>
-
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/3" alt="Recent Article 3"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jean.dosher/5" alt="Recent Article 5"> 
-<br>
-
----
-<br>
-
-
-###
-<br>
-
----
-
-Medium articles section made with **[bxcodec](https://github.com/bxcodec/github-readme-medium-recent-article)**
 
